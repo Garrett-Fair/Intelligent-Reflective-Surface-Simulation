@@ -1,5 +1,7 @@
 Notes-On-Code
 
+Final Working code is under the folder "Final Codes"
+
 1. How I ran the code 
 - After opening the file "iteration_process" you should make some decisions.  How many phase iterations do you want to 
 run?  What Field Distribution do you want to replicate (denoted "s" in the code)?
